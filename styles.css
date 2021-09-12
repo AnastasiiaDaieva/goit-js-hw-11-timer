@@ -1,0 +1,23 @@
+.timer {
+  background-color: black;
+  text-align: center;
+  color: rgb(182, 159, 33);
+  font-size: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.timer__item {
+  margin-right: 15px;
+  border: 2px solid rgb(182, 159, 33);
+  padding: 0px 20px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.timer__value {
+  margin-right: 5px;
+}
